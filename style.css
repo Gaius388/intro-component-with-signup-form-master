@@ -59,7 +59,7 @@ body{
     opacity: 1;
 }
 .mainSection input{
-    padding: 1em 18.5em 1em 1.2em;
+    padding: 1em 15em 1em 1.2em;
     border-radius: 0.5em;
     border: 2px solid rgb(246, 243, 243);
 }
@@ -80,7 +80,7 @@ input::placeholder{
 }
 .btn{
     background-color: hsl(154, 59%, 51%);
-    padding: 1.2em 9.7em;
+    padding: 1.2em 8em;
     border: none;
     color: white;
     font-weight: 600;
